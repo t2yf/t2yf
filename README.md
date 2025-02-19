@@ -1,6 +1,6 @@
 # Hi there! ✨
 
-I'm Thamiris, a Computer Science student at UFPR and a volunteer at Ecomp (Junior Computing Enterprise). I'm curious and passionate about technology, how things work, and software development 😊
+I'm Thamiris, a Computer Science student at UFPR and a volunteer at Ecomp (Junior Computing Enterprise). I'm curious and passionate about technology, how things work and software development 😊
 
  - 🐧 Quality Advisor and Back-End Developer at Ecomp
  - 🐣 Currently learning Cybersecurity and Front-End Development
