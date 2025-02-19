@@ -24,7 +24,7 @@ I'm Thamiris, a Computer Science student at UFPR and a volunteer at Ecomp (Junio
  ![Ts](https://img.shields.io/badge/TypeScript-9a9eff?style=for-the-badge&logo=typescript&logoColor=4b4d84)
  ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-b8e97e?style=for-the-badge&logo=C%2B%2B&logoColor=85af53)
-
+![Python](https://img.shields.io/badge/Python-7d84ff?style=for-the-badge&logo=python&logoColor=3e46ad)
 
 
 
