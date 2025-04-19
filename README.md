@@ -1,9 +1,9 @@
 # Hi there! ✨
 
-I'm Thamiris, a Computer Science student at UFPR and a volunteer at Ecomp (Junior Computing Enterprise). I'm curious and passionate about technology, how things work and software development 😊
+I'm Thamiris, a Computer Science student at UFPR and a volunteer at MFP - Maratona Feminina de Programação (Women's Programming Marathon). I'm curious and passionate about technology, how things work and software development 😊
 
- - 🐧 Quality Advisor and Back-End Developer at Ecomp
  - 🎈 Infrastructure Advisor at MFP (Maratona Feminina de Programação)
+ - 🧠 Researching about Neural Networks at UFPR
  - 🐣 Currently learning Cybersecurity and Front-End Development
 
  ## 🧮 Skills
